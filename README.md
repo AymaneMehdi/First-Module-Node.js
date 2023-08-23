@@ -1,4 +1,4 @@
-the global variables in node
+<h1> the global variables in node </h1>
 __dirname : path to current directory
 __filename : file name
 module : info about current module (file)
